@@ -4,7 +4,7 @@
 >
 > Centro de Investigación en Cómputo (CIC)
 > 
-> Alan Badillo Salas (alan@nomadacode.com)
+> Alan Badillo Salas
 
 ## Sesión 1
 
