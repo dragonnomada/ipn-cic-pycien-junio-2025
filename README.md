@@ -25,3 +25,7 @@ https://colab.research.google.com/drive/1UYYsvnNsVQGox_2-Buo-NPy8i0ngs3zN?usp=sh
 ## Sesión 5
 
 https://colab.research.google.com/drive/1WpJNIGIuVhyBZt4qPhn1MNX34Lf0xYkw?usp=sharing
+
+## Sesión 6
+
+https://colab.research.google.com/drive/1EoaO-pjQVpgiu7y-fhAwpWvdzZClWABL?usp=sharing
