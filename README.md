@@ -29,3 +29,11 @@ https://colab.research.google.com/drive/1WpJNIGIuVhyBZt4qPhn1MNX34Lf0xYkw?usp=sh
 ## Sesión 6
 
 https://colab.research.google.com/drive/1EoaO-pjQVpgiu7y-fhAwpWvdzZClWABL?usp=sharing
+
+## Sesión 7
+
+https://colab.research.google.com/drive/1AfBcobUjn2wCAy1iFfjWX1OJfoSV-ttJ?usp=sharing
+
+## Sesión Extra
+
+https://colab.research.google.com/drive/1yw8d1PER0lCgRef3MNm3V4e_CIMhCFdD?usp=sharing
